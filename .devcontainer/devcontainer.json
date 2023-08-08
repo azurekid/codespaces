@@ -41,7 +41,8 @@
 		"pspester.pester-test",
 		"bierner.markdown-checkbox",
 		"oderwat.indent-rainbow",
-		"vsls-contrib.gistfs"
+		"vsls-contrib.gistfs",
+		"chouzz.vscode-better-align"
 	]
     }
   }
