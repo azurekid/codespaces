@@ -31,7 +31,17 @@
 		"TylerLeonhardt.vscode-inline-values-powershell",
 		"GitHub.copilot",
 		"DavidAnson.vscode-markdownlint",
-		"eamodio.gitlens"
+		"eamodio.gitlens",
+		"justin-grote.powershell-extension-pack",
+		"vscode-icons-team.vscode-icons",
+		"redhat.vscode-yaml",
+		"rangav.vscode-thunder-client",
+		"ms-vscode.remote-server",
+		"LouisWT.regexp-preview",
+		"pspester.pester-test",
+		"bierner.markdown-checkbox",
+		"oderwat.indent-rainbow",
+		"vsls-contrib.gistfs"
 	]
     }
   }
